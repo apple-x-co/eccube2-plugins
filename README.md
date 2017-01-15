@@ -2,8 +2,12 @@
 
 ## パッチ系
 
-* https://github.com/apple-x-co/eccube2-plugin-BUDPatch001
+| 名称 | リポジトリ |
+|:-----------:|:------------:|
+| 修正パッチ001 | https://github.com/apple-x-co/eccube2-plugin-BUDPatch001 |
 
 ## Google
 
-* https://github.com/apple-x-co/eccube2-plugin-BUDGoogUA.git
+| 名称 | リポジトリ |
+|:-----------:|:------------:|
+| Google Universal Analytics | https://github.com/apple-x-co/eccube2-plugin-BUDGoogUA |
