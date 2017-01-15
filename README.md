@@ -1,0 +1,1 @@
+# EC-CUBE2 Plugins
